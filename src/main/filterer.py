@@ -18,8 +18,6 @@ class Filterer(object):
 # making another change to try git pull
 # making another change to try pull request
 # making another change to try merge branch
-# making another change to create a merge conflict 
-# making another change on another branch to create merge conflict 
 
     def remove_vowels(self, string_to_remove_from):
         ''' TODO - Implement solution
