@@ -17,6 +17,7 @@ class Filterer(object):
 # making a small change to track
 # making another change to try git pull
 # making another change to try pull request
+# making another change to try merge branch
 
 
     def remove_vowels(self, string_to_remove_from):
