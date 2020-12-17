@@ -20,6 +20,7 @@ class Filterer(object):
 # making another change to try merge branch
 # creating merge conflict
 
+
     def remove_vowels(self, string_to_remove_from):
         ''' TODO - Implement solution
         Given 1 arguments:
