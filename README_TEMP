@@ -1,5 +1,6 @@
 # Python Fundamentals
-Changed Line 2 in order to see a merge conflict
+Changed Line 2 in order to see a merge conflict adding a line here to create conflict
+
 ### **Objective:**
 * To complete the method stubs in each of the provided python modules
 	* `filterer.py`
